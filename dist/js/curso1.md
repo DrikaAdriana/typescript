@@ -1,11 +1,10 @@
+ //https://www.youtube.com/watch?v=8uIUCSv9GGQ  (AULAS ) 50:38h
 
-//TIPO STRING
-let helloWord: string = 'Hello Word'; // não é obrigatório colocar a tipagem mas , se não colocar aceita a mudança de tipó
-//console.log(helloWord);
+//TIPO STRING/console.log(helloWord);
 
 
 //TIPO USER é obrigatório preencher 
-interface User {
+/*interface User {
   name: String;
   id: number;
 }
@@ -133,4 +132,6 @@ queue1.push(0);
 queue1.push(1)
 
 console.log(queue1)
+
+*/
 
